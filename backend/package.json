@@ -1,0 +1,9 @@
+{
+  "name": "stins",
+  "version": "1.0.0",
+  "description": "webapp and mobile ",
+  "main": "index.js",
+  "author": "ricardozv",
+  "license": "MIT",
+  "private": false
+}
