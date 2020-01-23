@@ -1,0 +1,10 @@
+{
+  "name": "stins",
+  "version": "1.0.0",
+  "description": "Aplicação web e mobile",
+  "main": "index.js",
+  "repository": "https://github.com/ricardozv/stins-",
+  "author": "Ricardo Silva ",
+  "license": "MIT",
+  "private": false
+}
